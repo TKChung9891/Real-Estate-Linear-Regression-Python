@@ -11,6 +11,9 @@ This repository contains:
 
 The real estate price estimator is deployed as one of the functionalities in a Google Dialogflow chatbot and website (Maya Properties website & chatbot).
 
+Maya Properties website:
+https://sites.google.com/view/mayaproperties
+
 Demo Videos 
 
 “Meet Maya” English Version
