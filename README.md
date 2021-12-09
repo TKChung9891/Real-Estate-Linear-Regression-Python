@@ -4,7 +4,7 @@ This repository contains a real estate price predictor based on a Linear Regress
  
 This repository contains:
 1. Home Value FINAL I-python Jupyter Notebook file
-2. The executed Jupyter Notebook file with outputs saved in PDF and html formats
+2. The executed Jupyter Notebook file with outputs saved in PDF
 3. Dataset of private residential real estate prices from URA
 4. Data dictionary
 5. LR Model coefficients and intercept in excel file
