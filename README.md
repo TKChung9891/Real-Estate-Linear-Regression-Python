@@ -19,10 +19,10 @@ Demo Videos
 “Meet Maya” English Version
 https://youtu.be/qutMiJyAurY
 
-「マーヤーに会おう！」日本語バージョン
+「マーヤーに会おう！」日本語バージョン (Japanese)
 https://youtu.be/mF7905bSMTw
 
-「마이야를 만나자! 」 한국어 버전
+「마이야를 만나자! 」 한국어 버전 (Korean)
 https://youtu.be/o9tridN3yCU
 
 Screenshots
