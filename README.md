@@ -1,6 +1,6 @@
 # Real Estate Linear Regression Python
  
-This repository contains a real estate price predictor based on a Linear Regression Model.  The dataset is a collection of about 66,000 private residential real estate transaction prices in Singapore over 2017 to 2020, published by the Singapore Urban Redevelopment Authority (URA).  The LR Model is coded in Python and executed on Jupyter Notebook. 
+This repository contains a real estate price predictor based on a Linear Regression Model.  The dataset is a collection of about 66,000 private residential real estate transaction prices in Singapore over 2017 to 2020, published by the Singapore Urban Redevelopment Authority (URA). The degree of accuracy or R-square coefficient is 61%, based on a reduced set of four parameters, for ease of onward deployment onto the Maya Properties chatbot. The LR Model is coded in Python and executed on Jupyter Notebook. 
  
 This repository contains:
 1. Home Value FINAL I-python Jupyter Notebook file
