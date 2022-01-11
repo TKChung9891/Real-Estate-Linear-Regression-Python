@@ -9,6 +9,9 @@ This repository contains:
 4. Data dictionary
 5. LR Model coefficients and intercept in excel file
 
+Watch the demo and explanation video of this Real Estate Price Predictor:
+https://youtu.be/YCkce-OM2rY
+
 The real estate price estimator is deployed as one of the functionalities in a Google Dialogflow chatbot and website (Maya Properties website & chatbot).
 
 Maya Properties website:
@@ -26,6 +29,7 @@ https://youtu.be/mF7905bSMTw
 https://youtu.be/o9tridN3yCU
 
 Screenshots
+![image](https://user-images.githubusercontent.com/88481617/148929402-5a67352e-dc05-49d5-a280-01a1d530d2c1.png)
 ![image](https://user-images.githubusercontent.com/88481617/145357861-8110b236-84c8-4ccf-bd58-b27d2d74019f.png)
 ![image](https://user-images.githubusercontent.com/88481617/145357936-1f1c10a0-b4cd-4a67-955b-a97c436480bb.png)
 ![image](https://user-images.githubusercontent.com/88481617/145358215-add08979-df6c-42e1-baf3-0205ec0146dc.png)
